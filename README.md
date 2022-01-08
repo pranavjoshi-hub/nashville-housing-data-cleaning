@@ -2,8 +2,8 @@
 * Cleaned a dataset for housing properties in Nashville, TN, United States, using SQL
 
 ## Tools & Resources Used
-* **Data Exploration:** SQL
-* **Data Exploration Environment:** Microsoft SQL Server Management Studio 2018
+* **Data Cleaning:** SQL
+* **Integrated Environment:** Microsoft SQL Server Management Studio 2018
 * **Data Source:** https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
 * **YouTube Resource:** https://www.youtube.com/watch?v=8rO7ztF4NtU
 
